@@ -8,7 +8,7 @@ while test_cases > 0:
         print(-1)
         continue
     # sort the numbers
-    sorted_nums = sorted(nums)
+    sorted_nums = sorted(nums) 
     i = 0
     while i < n:
         if sorted_nums[i] != nums[i]:
