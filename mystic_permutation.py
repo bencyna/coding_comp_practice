@@ -30,4 +30,4 @@ while test_cases > 0:
             print(num)
         else:
             print(num, end=" ")
-
+ 
