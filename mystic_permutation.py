@@ -29,5 +29,5 @@ while test_cases > 0:
         if i == n-1:
             print(num)
         else:
-            print(num, end=" ")
+            print(num, end=" ") 
  
