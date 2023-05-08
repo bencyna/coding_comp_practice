@@ -27,7 +27,7 @@ while l <= r:
     while current_total <= enemy_power and l <= r:
         current_total += best_player_score
         l += 1
-    
+     
     if current_total > enemy_power:
         count += 1
 print(count)
