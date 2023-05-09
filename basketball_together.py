@@ -29,5 +29,5 @@ while l <= r:
         l += 1
      
     if current_total > enemy_power:
-        count += 1
+        count += 1 
 print(count)
