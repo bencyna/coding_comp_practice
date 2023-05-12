@@ -13,7 +13,7 @@
 
 # we can get the circumference of the outer circle for any r we choose
 
-# we can also 
+# we can also  
 
 # if 6 circles, the radius is the same as the inner
 import math
