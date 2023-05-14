@@ -28,4 +28,4 @@ circumferenceOfInner = math.pi * 2 * radiusOfInner
 
 # we know how many outer circles there are
 
-r(o) : r(i), n, 
+r(o) : r(i), n
