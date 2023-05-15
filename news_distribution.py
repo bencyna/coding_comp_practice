@@ -23,7 +23,7 @@ def bfs(node, adjList, seen, res):
         seen[node] = nodeCount
         res[node-1] = nodeCount
         
-# create adjList 
+# create adjList  
 n, m = list(map(int, input().split()))
 adjList = [set() for _ in range(n+1)]
 while m > 0:
