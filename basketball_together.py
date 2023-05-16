@@ -14,7 +14,7 @@ n, enemy_power = list(map(int, input().split()))
 candidates = list(map(int, input().split()))
 
 candidates.sort()
-l = 0
+l = 0 
 r = n-1
 count = 0
 while l <= r:
