@@ -11,7 +11,7 @@ while test_cases > 0:
     sorted_nums = sorted(nums) 
     i = 0
     while i < n:
-        if sorted_nums[i] != nums[i]:
+        if sorted_nums[i] != nums[i]: 
             # number is in its best position, leave it
             i+=1
             continue
