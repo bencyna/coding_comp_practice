@@ -54,4 +54,4 @@ for i in range(n):
     print(res[i], end=" ")
  
                 
-  
+   
