@@ -7,7 +7,7 @@
 
 # select best player, then select worst players until our score is greater
 # add one to score, minimise size of our arr 
-
+ 
 # enemy = 100
 
 n, enemy_power = list(map(int, input().split()))
